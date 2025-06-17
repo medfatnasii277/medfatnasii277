@@ -57,9 +57,7 @@ I'm a passionate **Full Stack Software Engineer** with expertise in building sca
   <img src="https://github-profile-trophy.vercel.app/?username=medfatnasii277&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 🔥 Featured Projects
 
-Check out my **[Portfolio Website](YOUR_PORTFOLIO_URL)** to explore all my projects and see my work in action!
 
 ## 📈 Activity Graph
 
@@ -78,6 +76,6 @@ Check out my **[Portfolio Website](YOUR_PORTFOLIO_URL)** to explore all my proje
   
 **Thanks for visiting! 😊**
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
 
 </div>
