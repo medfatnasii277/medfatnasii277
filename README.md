@@ -8,12 +8,7 @@
 
 I'm a passionate **Full Stack Software Engineer** with expertise in building scalable web applications and innovative solutions. I love turning complex problems into simple, beautiful, and intuitive designs.
 
-- 🔭 I'm currently working on **[CURRENT PROJECT - e.g., "a microservices e-commerce platform"]**
-- 🌱 I'm currently learning **[LEARNING FOCUS - e.g., "Kubernetes and cloud architecture"]**
-- 👯 I'm looking to collaborate on **[COLLABORATION INTERESTS - e.g., "open source projects and innovative startups"]**
-- 💬 Ask me about **Full Stack Development, API Design, Database Architecture**
-- 📫 How to reach me: **[YOUR EMAIL]**
-- ⚡ Fun fact: **[INTERESTING FACT ABOUT YOU]**
+💬 Ask me about **Full Stack Development, API Design, Database Architecture**
 
 ## 🛠️ Tech Stack
 
@@ -45,27 +40,31 @@ I'm a passionate **Full Stack Software Engineer** with expertise in building sca
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[medfatnasii277]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=medfatnasii277&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[medfatnasii277]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=medfatnasii277&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[medfatnasii277]&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medfatnasii277&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[medfatnasii277]&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=medfatnasii277&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
+
+## 🔥 Featured Projects
+
+Check out my **[Portfolio Website](YOUR_PORTFOLIO_URL)** to explore all my projects and see my work in action!
 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[medfatnasii277]&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medfatnasii277&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🤝 Connect with Me
@@ -88,7 +87,7 @@ I'm a passionate **Full Stack Software Engineer** with expertise in building sca
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[medfatnasii277]&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=medfatnasii277&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
