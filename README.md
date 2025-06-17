@@ -62,30 +62,10 @@ I'm a passionate **Full Stack Software Engineer** with expertise in building sca
   <img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB_USERNAME]&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## 🔥 Featured Projects
-
-### 🌟 [Project Name 1]
-**[Brief description of your most impressive project]**
-- 🛠️ **Tech Stack**: Spring Boot, React, PostgreSQL, Docker
-- 🚀 **Features**: [Key features]
-- 🔗 **Links**: [Live Demo](URL) • [Repository](URL)
-
-### 🌟 [Project Name 2]
-**[Brief description of another impressive project]**
-- 🛠️ **Tech Stack**: Node.js, Next.js, MongoDB, TailwindCSS
-- 🚀 **Features**: [Key features]
-- 🔗 **Links**: [Live Demo](URL) • [Repository](URL)
-
-### 🎮 [Game Project]
-**[Brief description of a game you've made with Godot]**
-- 🛠️ **Tech Stack**: Godot Engine, GDScript
-- 🚀 **Features**: [Key features]
-- 🔗 **Links**: [Play Game](URL) • [Repository](URL)
-
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_GITHUB_USERNAME]&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[medfatnasii277]&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🤝 Connect with Me
@@ -108,7 +88,7 @@ I'm a passionate **Full Stack Software Engineer** with expertise in building sca
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=[medfatnasii277]&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
 <div align="center">
