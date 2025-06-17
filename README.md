@@ -73,29 +73,8 @@ Check out my **[Portfolio Website](YOUR_PORTFOLIO_URL)** to explore all my proje
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=medfatnasii277&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🤝 Connect with Me
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://[YOUR_PORTFOLIO_URL])
 
-**All my social links and contact information are available on my portfolio!**
-
-</div>
-
-## 💡 Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=medfatnasii277&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
   
 **Thanks for visiting! 😊**
 
