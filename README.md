@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Software+Engineer" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ## 🚀 About Me
 
@@ -14,9 +12,7 @@ I'm a passionate **Full Stack Software Engineer** with expertise in building sca
 
 💬 Ask me about **Full Stack Development, API Design, Database Architecture**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ## 💻 Tech Stack
 
@@ -162,9 +158,7 @@ I'm a passionate **Full Stack Software Engineer** with expertise in building sca
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+---
 
 ## 🏆 GitHub Trophies
 
@@ -184,11 +178,7 @@ I'm a passionate **Full Stack Software Engineer** with expertise in building sca
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=medfatnasii277&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=medfatnasii277&label=Profile%20views&color=36BCF7&style=flat" alt="Profile Views Counter" />
@@ -197,7 +187,5 @@ I'm a passionate **Full Stack Software Engineer** with expertise in building sca
 <div align="center">
   
 **Thanks for visiting! 😊**
-
-
 
 </div>
