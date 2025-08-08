@@ -56,10 +56,6 @@ I'm a passionate **Full Stack Software Engineer** with expertise in building sca
 <br>Python
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-<br>PHP
-</td>
-<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
 <br>Flask
 </td>
