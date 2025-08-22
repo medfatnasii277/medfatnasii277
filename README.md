@@ -1,4 +1,4 @@
-# Full-Stack Software Engineer Portfolio
+# Full-Stack Software Engineer 
 
 ## About Me
 I am a passionate **Full-Stack Software Engineer** with a strong curiosity about how systems and applications work under the hood. I enjoy exploring both frontend and backend technologies, understanding their interactions, and continuously improving my skills through hands-on projects.
